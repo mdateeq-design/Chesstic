@@ -1,0 +1,5 @@
+{
+  "name": "Game Hub",
+  "description": "A modern web-based game application featuring classic games like Tic Tac Toe, Ludo, and Chess. It includes a sleek, responsive interface with single-player (vs AI) and multiplayer modes, powered by React and Gemini for strategy tips.",
+  "requestFramePermissions": []
+}
